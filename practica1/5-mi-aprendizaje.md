@@ -1,3 +1,2 @@
 # COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+Aprendí los conceptos fundamentales de docker, para su utilización y funcionamiento. Además, me sirvieron los comandos de creación y ejecución de las imagenes y contenedores. Me ayudará en otras materias puesto que se pide el despliegue de alguns aplicaciones en docker. 
